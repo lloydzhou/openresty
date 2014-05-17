@@ -1,0 +1,247 @@
+2014/05/17 13:54:52 [emerg] 1832#0: bind() to 0.0.0.0:80 failed (112: Address already in use)
+2014/05/17 13:54:52 [emerg] 1832#0: bind() to 0.0.0.0:80 failed (112: Address already in use)
+2014/05/17 13:54:52 [emerg] 1832#0: bind() to 0.0.0.0:80 failed (112: Address already in use)
+2014/05/17 13:54:52 [emerg] 1832#0: bind() to 0.0.0.0:80 failed (112: Address already in use)
+2014/05/17 13:54:52 [emerg] 1832#0: bind() to 0.0.0.0:80 failed (112: Address already in use)
+2014/05/17 13:54:52 [emerg] 1832#0: still could not bind()
+2014/05/17 14:03:10 [error] 6444#0: *1 open() "/usr/local/openresty/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.2.105, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.2.105"
+2014/05/17 14:04:15 [notice] 1548#0: signal process started
+2014/05/17 14:04:15 [emerg] 5852#0: bind() to 0.0.0.0:80 failed (112: Address already in use)
+2014/05/17 14:04:15 [emerg] 5852#0: bind() to 0.0.0.0:80 failed (112: Address already in use)
+2014/05/17 14:04:15 [emerg] 5852#0: bind() to 0.0.0.0:80 failed (112: Address already in use)
+2014/05/17 14:04:15 [emerg] 5852#0: bind() to 0.0.0.0:80 failed (112: Address already in use)
+2014/05/17 14:04:15 [emerg] 5852#0: bind() to 0.0.0.0:80 failed (112: Address already in use)
+2014/05/17 14:04:15 [emerg] 5852#0: still could not bind()
+2014/05/17 14:56:04 [emerg] 2984#0: invalid number of arguments in "location" directive in /usr/local/openresty/nginx/conf/nginx.conf:57
+2014/05/17 14:57:14 [notice] 8028#0: signal process started
+2014/05/17 14:57:15 [emerg] 5852#0: bind() to 0.0.0.0:80 failed (112: Address already in use)
+2014/05/17 14:57:15 [emerg] 5852#0: bind() to 0.0.0.0:80 failed (112: Address already in use)
+2014/05/17 14:57:15 [emerg] 5852#0: bind() to 0.0.0.0:80 failed (112: Address already in use)
+2014/05/17 14:57:15 [emerg] 5852#0: bind() to 0.0.0.0:80 failed (112: Address already in use)
+2014/05/17 14:57:15 [emerg] 5852#0: bind() to 0.0.0.0:80 failed (112: Address already in use)
+2014/05/17 14:57:15 [emerg] 5852#0: still could not bind()
+2014/05/17 14:57:25 [error] 6444#0: *3 open() "/usr/local/openresty/nginx/html/lua-test" failed (2: No such file or directory), client: 192.168.2.105, server: localhost, request: "GET /lua-test HTTP/1.1", host: "192.168.2.105"
+2014/05/17 14:57:52 [error] 6444#0: *3 open() "/usr/local/openresty/nginx/html/echo-test" failed (2: No such file or directory), client: 192.168.2.105, server: localhost, request: "GET /echo-test HTTP/1.1", host: "192.168.2.105"
+2014/05/17 14:57:55 [error] 6444#0: *3 open() "/usr/local/openresty/nginx/html/echo-test" failed (2: No such file or directory), client: 192.168.2.105, server: localhost, request: "GET /echo-test HTTP/1.1", host: "192.168.2.105"
+2014/05/17 14:58:49 [notice] 7416#0: signal process started
+2014/05/17 14:58:49 [emerg] 5852#0: bind() to 0.0.0.0:80 failed (112: Address already in use)
+2014/05/17 14:58:49 [emerg] 5852#0: bind() to 0.0.0.0:80 failed (112: Address already in use)
+2014/05/17 14:58:49 [emerg] 5852#0: bind() to 0.0.0.0:80 failed (112: Address already in use)
+2014/05/17 14:58:49 [emerg] 5852#0: bind() to 0.0.0.0:80 failed (112: Address already in use)
+2014/05/17 14:58:49 [emerg] 5852#0: bind() to 0.0.0.0:80 failed (112: Address already in use)
+2014/05/17 14:58:49 [emerg] 5852#0: still could not bind()
+2014/05/17 14:58:54 [error] 6444#0: *3 open() "/usr/local/openresty/nginx/html/echo-test" failed (2: No such file or directory), client: 192.168.2.105, server: localhost, request: "GET /echo-test HTTP/1.1", host: "192.168.2.105"
+2014/05/17 14:58:56 [error] 6444#0: *3 open() "/usr/local/openresty/nginx/html/echo-test" failed (2: No such file or directory), client: 192.168.2.105, server: localhost, request: "GET /echo-test HTTP/1.1", host: "192.168.2.105"
+2014/05/17 14:58:57 [error] 6444#0: *3 open() "/usr/local/openresty/nginx/html/echo-test" failed (2: No such file or directory), client: 192.168.2.105, server: localhost, request: "GET /echo-test HTTP/1.1", host: "192.168.2.105"
+2014/05/17 14:59:42 [notice] 7696#0: signal process started
+2014/05/17 14:59:42 [emerg] 5852#0: bind() to 0.0.0.0:80 failed (112: Address already in use)
+2014/05/17 14:59:42 [emerg] 5852#0: bind() to 0.0.0.0:80 failed (112: Address already in use)
+2014/05/17 14:59:42 [emerg] 5852#0: bind() to 0.0.0.0:80 failed (112: Address already in use)
+2014/05/17 14:59:42 [emerg] 5852#0: bind() to 0.0.0.0:80 failed (112: Address already in use)
+2014/05/17 14:59:42 [emerg] 5852#0: bind() to 0.0.0.0:80 failed (112: Address already in use)
+2014/05/17 14:59:42 [emerg] 5852#0: still could not bind()
+2014/05/17 14:59:52 [error] 6444#0: *3 open() "/usr/local/openresty/nginx/html/echotest" failed (2: No such file or directory), client: 192.168.2.105, server: localhost, request: "GET /echotest HTTP/1.1", host: "192.168.2.105"
+2014/05/17 15:00:01 [error] 6444#0: *3 open() "/usr/local/openresty/nginx/html/echotest" failed (2: No such file or directory), client: 192.168.2.105, server: localhost, request: "GET /echotest HTTP/1.1", host: "192.168.2.105"
+2014/05/17 15:00:02 [error] 6444#0: *3 open() "/usr/local/openresty/nginx/html/echotest" failed (2: No such file or directory), client: 192.168.2.105, server: localhost, request: "GET /echotest HTTP/1.1", host: "192.168.2.105"
+2014/05/17 15:00:03 [error] 6444#0: *3 open() "/usr/local/openresty/nginx/html/echotest" failed (2: No such file or directory), client: 192.168.2.105, server: localhost, request: "GET /echotest HTTP/1.1", host: "192.168.2.105"
+2014/05/17 15:00:03 [error] 6444#0: *3 open() "/usr/local/openresty/nginx/html/echotest" failed (2: No such file or directory), client: 192.168.2.105, server: localhost, request: "GET /echotest HTTP/1.1", host: "192.168.2.105"
+2014/05/17 15:00:03 [error] 6444#0: *3 open() "/usr/local/openresty/nginx/html/echotest" failed (2: No such file or directory), client: 192.168.2.105, server: localhost, request: "GET /echotest HTTP/1.1", host: "192.168.2.105"
+2014/05/17 15:00:59 [error] 6444#0: *3 open() "/usr/local/openresty/nginx/html/luatest" failed (2: No such file or directory), client: 192.168.2.105, server: localhost, request: "GET /luatest HTTP/1.1", host: "192.168.2.105"
+2014/05/17 15:01:02 [error] 6444#0: *3 open() "/usr/local/openresty/nginx/html/luatest" failed (2: No such file or directory), client: 192.168.2.105, server: localhost, request: "GET /luatest HTTP/1.1", host: "192.168.2.105"
+2014/05/17 15:01:55 [notice] 5164#0: signal process started
+2014/05/17 15:01:55 [alert] 5164#0: kill(5852, 1) failed (3: No such process)
+2014/05/17 17:03:47 [emerg] 9044#0: bind() to 0.0.0.0:80 failed (112: Address already in use)
+2014/05/17 17:03:47 [emerg] 9044#0: bind() to 0.0.0.0:80 failed (112: Address already in use)
+2014/05/17 17:03:47 [emerg] 9044#0: bind() to 0.0.0.0:80 failed (112: Address already in use)
+2014/05/17 17:03:47 [emerg] 9044#0: bind() to 0.0.0.0:80 failed (112: Address already in use)
+2014/05/17 17:03:47 [emerg] 9044#0: bind() to 0.0.0.0:80 failed (112: Address already in use)
+2014/05/17 17:03:47 [emerg] 9044#0: still could not bind()
+2014/05/17 17:05:48 [emerg] 9352#0: open() "/nginx/mime.types" failed (2: No such file or directory) in /nginx/conf\nginx.conf:18
+2014/05/17 17:06:03 [emerg] 5724#0: open() "/nginx/mime.types" failed (2: No such file or directory) in /nginx/.\conf\nginx.conf:18
+2014/05/17 17:11:38 [emerg] 8772#0: open() "/nginx/z:\nginx\conf\nginx.conf" failed (2: No such file or directory)
+2014/05/17 18:13:29 [emerg] 9784#0: bind() to 0.0.0.0:80 failed (112: Address already in use)
+2014/05/17 18:13:29 [emerg] 9784#0: bind() to 0.0.0.0:80 failed (112: Address already in use)
+2014/05/17 18:13:29 [emerg] 9784#0: bind() to 0.0.0.0:80 failed (112: Address already in use)
+2014/05/17 18:13:29 [emerg] 9784#0: bind() to 0.0.0.0:80 failed (112: Address already in use)
+2014/05/17 18:13:29 [emerg] 9784#0: bind() to 0.0.0.0:80 failed (112: Address already in use)
+2014/05/17 18:13:29 [emerg] 9784#0: still could not bind()
+2014/05/17 18:27:26 [emerg] 2164#0: bind() to 0.0.0.0:80 failed (112: Address already in use)
+2014/05/17 18:27:26 [emerg] 2164#0: bind() to 0.0.0.0:80 failed (112: Address already in use)
+2014/05/17 18:27:26 [emerg] 2164#0: bind() to 0.0.0.0:80 failed (112: Address already in use)
+2014/05/17 18:27:26 [emerg] 2164#0: bind() to 0.0.0.0:80 failed (112: Address already in use)
+2014/05/17 18:27:26 [emerg] 2164#0: bind() to 0.0.0.0:80 failed (112: Address already in use)
+2014/05/17 18:27:26 [emerg] 2164#0: still could not bind()
+2014/05/17 18:29:14 [error] 9576#0: init_by_lua error: init_by_lua:1: module 'cjson' not found:
+	no field package.preload['cjson']
+	no file './lualib/cjson.lua'
+	no file './lualib/cjson/init.lua'
+	no file './cjson.lua'
+	no file '/usr/local/share/luajit-2.1.0-alpha/cjson.lua'
+	no file '/usr/local/share/lua/5.1/cjson.lua'
+	no file '/usr/local/share/lua/5.1/cjson/init.lua'
+	no file 'C:\Program Files\Lua\5.1\lua\cjson.luac'
+	no file './lualib/cjson.so'
+	no file './cjson.so'
+	no file '/usr/local/lib/lua/5.1/cjson.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+stack traceback:
+	[C]: in function 'require'
+	init_by_lua:1: in main chunk
+2014/05/17 18:29:54 [error] 8460#0: init_by_lua error: init_by_lua:1: module 'cjson' not found:
+	no field package.preload['cjson']
+	no file './lualib/cjson.lua'
+	no file './lualib/cjson/init.lua'
+	no file './cjson.lua'
+	no file '/usr/local/share/luajit-2.1.0-alpha/cjson.lua'
+	no file '/usr/local/share/lua/5.1/cjson.lua'
+	no file '/usr/local/share/lua/5.1/cjson/init.lua'
+	no file 'C:\Program Files\Lua\5.1\lua\cjson.luac'
+	no file './lualib/cjson.so'
+	no file './cjson.so'
+	no file '/usr/local/lib/lua/5.1/cjson.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+stack traceback:
+	[C]: in function 'require'
+	init_by_lua:1: in main chunk
+2014/05/17 18:30:21 [error] 9608#0: init_by_lua error: error loading module 'cjson' from file './lualib/cjson.so':
+	No such file or directory
+stack traceback:
+	[C]: at 0x004df8d0
+	[C]: in function 'require'
+	init_by_lua:1: in main chunk
+2014/05/17 18:30:57 [error] 504#0: init_by_lua error: init_by_lua:1: module 'cjson' not found:
+	no field package.preload['cjson']
+	no file './lualib/cjson.lua'
+	no file './lualib/cjson/init.lua'
+	no file './cjson.lua'
+	no file '/usr/local/share/luajit-2.1.0-alpha/cjson.lua'
+	no file '/usr/local/share/lua/5.1/cjson.lua'
+	no file '/usr/local/share/lua/5.1/cjson/init.lua'
+	no file 'C:\Program Files\Lua\5.1\lua\cjson.luac'
+	no file './lualib/cjson.so'
+	no file './cjson.so'
+	no file '/usr/local/lib/lua/5.1/cjson.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+stack traceback:
+	[C]: in function 'require'
+	init_by_lua:1: in main chunk
+2014/05/17 18:34:50 [error] 9496#0: init_by_lua error: error loading module 'cjson' from file 'lualib/cjson.dll':
+	No such file or directory
+stack traceback:
+	[C]: at 0x004df8d0
+	[C]: in function 'require'
+	init_by_lua:1: in main chunk
+2014/05/17 20:00:47 [error] 8000#0: init_by_lua error: error loading module 'cjson' from file 'lualib/cjson.dll':
+	No such file or directory
+stack traceback:
+	[C]: at 0x004df8d0
+	[C]: in function 'require'
+	init_by_lua:1: in main chunk
+2014/05/17 20:00:48 [error] 3108#0: init_by_lua error: error loading module 'cjson' from file 'lualib/cjson.dll':
+	No such file or directory
+stack traceback:
+	[C]: at 0x004df8d0
+	[C]: in function 'require'
+	init_by_lua:1: in main chunk
+2014/05/17 20:00:51 [error] 10232#0: init_by_lua error: error loading module 'cjson' from file 'lualib/cjson.dll':
+	No such file or directory
+stack traceback:
+	[C]: at 0x004df8d0
+	[C]: in function 'require'
+	init_by_lua:1: in main chunk
+2014/05/17 20:11:28 [error] 7940#0: init_by_lua error: error loading module 'cjson' from file 'lualib/cjson.dll':
+	No such file or directory
+stack traceback:
+	[C]: at 0x004df8d0
+	[C]: in function 'require'
+	init_by_lua:1: in main chunk
+2014/05/17 20:15:53 [error] 9356#0: init_by_lua error: error loading module 'rds.parser' from file './lualib/rds/parser.so':
+	No such file or directory
+stack traceback:
+	[C]: at 0x004df8d0
+	[C]: in function 'require'
+	init_by_lua:1: in main chunk
+2014/05/17 20:16:00 [error] 9308#0: init_by_lua error: error loading module 'rds.parser' from file './lualib/rds/parser.so':
+	No such file or directory
+stack traceback:
+	[C]: at 0x004df8d0
+	[C]: in function 'require'
+	init_by_lua:1: in main chunk
+2014/05/17 20:23:46 [error] 1020#0: init_by_lua error: error loading module 'rds.parser' from file './lualib/rds/parser.so':
+	No such file or directory
+stack traceback:
+	[C]: at 0x004df8d0
+	[C]: in function 'require'
+	init_by_lua:1: in main chunk
+2014/05/17 20:30:52 [error] 9596#0: *1 failed to load inlined Lua code: content_by_lua:2: ')' expected (to close '(' at line 1) near 'end', client: 192.168.2.105, server: localhost, request: "GET /luatest HTTP/1.1", host: "192.168.2.105"
+2014/05/17 20:32:06 [error] 5332#0: init_by_lua error: init_by_lua:1: module 'cjson' not found:
+	no field package.preload['cjson']
+	no file './lualib/cjson.lua'
+	no file './lualib/cjson/init.lua'
+	no file './cjson.lua'
+	no file '/usr/local/openresty/luajit/share/luajit-2.1.0-alpha/cjson.lua'
+	no file '/usr/local/share/lua/5.1/cjson.lua'
+	no file '/usr/local/share/lua/5.1/cjson/init.lua'
+	no file '/usr/local/openresty/luajit/share/lua/5.1/cjson.lua'
+	no file '/usr/local/openresty/luajit/share/lua/5.1/cjson/init.lua'
+	no file 'C:\Program Files\Lua\5.1\lua\cjson.luac'
+	no file 'lualib/cjson.so'
+	no file './lualib/cjson.so'
+	no file './cjson.so'
+	no file '/usr/local/lib/lua/5.1/cjson.so'
+	no file '/usr/local/openresty/luajit/lib/lua/5.1/cjson.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+stack traceback:
+	[C]: in function 'require'
+	init_by_lua:1: in main chunk
+2014/05/17 20:33:11 [notice] 7440#0: signal process started
+2014/05/17 20:33:11 [alert] 9596#0: recvmsg() returned too small ancillary data
+2014/05/17 20:33:18 [error] 6608#0: *2 failed to load inlined Lua code: content_by_lua:2: ')' expected (to close '(' at line 1) near 'end', client: 192.168.2.105, server: localhost, request: "GET /luatest HTTP/1.1", host: "192.168.2.105"
+2014/05/17 20:33:19 [error] 6608#0: *3 failed to load inlined Lua code: content_by_lua:2: ')' expected (to close '(' at line 1) near 'end', client: 192.168.2.105, server: localhost, request: "GET /luatest HTTP/1.1", host: "192.168.2.105"
+2014/05/17 20:34:02 [notice] 9944#0: signal process started
+2014/05/17 20:34:02 [alert] 6608#0: recvmsg() returned too small ancillary data
+2014/05/17 20:36:57 [emerg] 9336#0: "upstream" directive is not allowed here in ./nginx/conf/nginx.conf:56
+2014/05/17 20:37:11 [emerg] 9692#0: unknown directive "rds_json_ssi" in ./nginx/conf/nginx.conf:65
+2014/05/17 21:03:37 [error] 6576#0: *12 open() "./nginx/html/comment/1" failed (2: No such file or directory), client: 192.168.2.105, server: localhost, request: "GET /comment/1 HTTP/1.1", host: "192.168.2.105"
+2014/05/17 21:11:44 [notice] 9448#0: signal process started
+2014/05/17 21:11:44 [alert] 6576#0: recvmsg() returned too small ancillary data
+2014/05/17 21:20:45 [notice] 8348#0: signal process started
+2014/05/17 21:21:10 [notice] 5780#0: signal process started
+2014/05/17 21:21:10 [error] 5780#0: open() "./nginx/logs/nginx.pid" failed (2: No such file or directory)
+2014/05/17 21:21:11 [notice] 9120#0: signal process started
+2014/05/17 21:21:11 [error] 9120#0: open() "./nginx/logs/nginx.pid" failed (2: No such file or directory)
+2014/05/17 21:21:12 [notice] 9224#0: signal process started
+2014/05/17 21:21:12 [error] 9224#0: open() "./nginx/logs/nginx.pid" failed (2: No such file or directory)
+2014/05/17 21:21:13 [notice] 7296#0: signal process started
+2014/05/17 21:21:13 [error] 7296#0: open() "./nginx/logs/nginx.pid" failed (2: No such file or directory)
+2014/05/17 21:32:04 [notice] 5952#0: signal process started
+2014/05/17 21:52:57 [notice] 6456#0: signal process started
+2014/05/17 21:52:57 [error] 6456#0: open() "./nginx/logs/nginx.pid" failed (2: No such file or directory)
+2014/05/17 21:53:15 [notice] 6608#0: signal process started
+2014/05/17 21:53:15 [error] 6608#0: open() "./nginx/logs/nginx.pid" failed (2: No such file or directory)
+2014/05/17 21:53:30 [notice] 8552#0: signal process started
+2014/05/17 21:53:30 [error] 8552#0: open() "./nginx/logs/nginx.pid" failed (2: No such file or directory)
+2014/05/17 21:53:32 [notice] 9668#0: signal process started
+2014/05/17 21:53:32 [error] 9668#0: open() "./nginx/logs/nginx.pid" failed (2: No such file or directory)
+2014/05/17 21:53:33 [notice] 4628#0: signal process started
+2014/05/17 21:53:33 [error] 4628#0: open() "./nginx/logs/nginx.pid" failed (2: No such file or directory)
+2014/05/17 21:53:34 [notice] 9796#0: signal process started
+2014/05/17 21:53:34 [error] 9796#0: open() "./nginx/logs/nginx.pid" failed (2: No such file or directory)
+2014/05/17 21:53:45 [notice] 10124#0: signal process started
+2014/05/17 21:53:45 [alert] 7096#0: recvmsg() returned too small ancillary data
+2014/05/17 21:53:47 [notice] 10036#0: signal process started
+2014/05/17 21:53:48 [alert] 5584#0: recvmsg() returned too small ancillary data
+2014/05/17 21:53:48 [notice] 6316#0: signal process started
+2014/05/17 21:53:49 [alert] 5824#0: recvmsg() returned too small ancillary data
+2014/05/17 21:53:56 [notice] 6808#0: signal process started
+2014/05/17 21:53:56 [alert] 5276#0: recvmsg() returned too small ancillary data
+2014/05/17 21:54:04 [notice] 9272#0: signal process started
+2014/05/17 21:54:04 [alert] 7076#0: recvmsg() returned too small ancillary data
+2014/05/17 21:54:06 [notice] 10168#0: signal process started
+2014/05/17 21:54:06 [alert] 9352#0: recvmsg() returned too small ancillary data
+2014/05/17 22:00:09 [notice] 10172#0: signal process started
+2014/05/17 22:01:02 [notice] 4756#0: signal process started
+2014/05/17 22:01:10 [notice] 8864#0: signal process started
+2014/05/17 22:01:10 [error] 8864#0: open() "./nginx/logs/nginx.pid" failed (2: No such file or directory)
+2014/05/17 22:01:32 [notice] 8820#0: signal process started
+2014/05/17 22:01:32 [alert] 4580#0: recvmsg() returned too small ancillary data
