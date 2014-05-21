@@ -1,0 +1,41 @@
+ ./auto/configure --with-pcre=./pcre-8.33 --with-zlib=./zlib-1.2.8 --prefix=. --with-select_module --with-cc-opt=-DFD_SETSIZE=2048 --add-module=bundle/ngx_devel_kit-0.2.19 --add-module=bundle/array-var-nginx-module-0.03 --add-module=bundle/echo-nginx-module-0.53 --add-module=bundle/form-input-nginx-module-0.08 --add-module=bundle/auth-request-nginx-module-0.2 --add-module=bundle/headers-more-nginx-module-0.25 --add-module=bundle/memc-nginx-module-0.14/ --add-module=bundle/ngx_coolkit-0.2rc1 --add-module=bundle/redis-nginx-module-0.3.7 --add-module=bundle/redis2-nginx-module-0.11 --add-module=bundle/set-misc-nginx-module-0.24 --add-module=bundle/srcache-nginx-module-0.26 --add-module=bundle/xss-nginx-module-0.04 --add-module=bundle/ngx_lua-0.9.7/ --add-module=bundle/ngx_lua_upstream-0.02/
+
+
+configuring additional modules
+adding module in bundle/ngx_devel_kit-0.2.19
+ + ngx_devel_kit was configured
+adding module in bundle/array-var-nginx-module-0.03
+found ngx_devel_kit for ngx_array_var; looks good.
+ + ngx_http_array_var_module was configured
+adding module in bundle/echo-nginx-module-0.53
+ + ngx_http_echo_module was configured
+adding module in bundle/form-input-nginx-module-0.08
+found ngx_devel_kit for ngx_form_input; looks good.
+ + ngx_http_form_input_module was configured
+adding module in bundle/auth-request-nginx-module-0.2
+ + ngx_http_auth_request_module was configured
+adding module in bundle/headers-more-nginx-module-0.25
+ + ngx_http_headers_more_filter_module was configured
+adding module in bundle/memc-nginx-module-0.14/
+ + ngx_http_memc_module was configured
+adding module in bundle/ngx_coolkit-0.2rc1
+ + ngx_coolkit_module was configured
+adding module in bundle/redis-nginx-module-0.3.7
+ + ngx_http_redis_module was configured
+adding module in bundle/redis2-nginx-module-0.11
+ + ngx_http_redis2_module was configured
+adding module in bundle/set-misc-nginx-module-0.24
+found ngx_devel_kit for ngx_set_misc; looks good.
+ + ngx_http_set_misc_module was configured
+adding module in bundle/srcache-nginx-module-0.26
+ + ngx_http_srcache_filter_module was configured
+adding module in bundle/xss-nginx-module-0.04
+ + ngx_http_xss_filter_module was configured
+adding module in bundle/ngx_lua-0.9.7/
+checking for LuaJIT library in /z/nginx-1.7/luajit/lib and /z/nginx-1.7/luajit/include/luajit-2.1/ (specified by the LUAJIT_LIB and LUAJIT_INC env) ... found
+checking for export symbols by default (-E) ... found
+checking for export symbols by default (--export-all-symbols) ... found
+checking for SO_PASSCRED ... not found
+ + ngx_http_lua_module was configured
+adding module in bundle/ngx_lua_upstream-0.02/
+ + ngx_http_lua_upstream_module was configured

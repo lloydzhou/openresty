@@ -1,2 +1,0 @@
-2014/05/21 17:32:06 [error] 7792#6216: *1 "Z:\workspace\openresty-win32/html/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
-2014/05/21 17:32:06 [error] 7792#6216: *1 CreateFile() "Z:\workspace\openresty-win32/html/favicon.ico" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
